@@ -1,8 +1,8 @@
 # Spellcheck with LanguageTool.org
 
-Send a POST request to the Public HTTP API op LanguageTool.org to check for common spelling mistakes. Can be used to create a *Did You Mean...* for your search function. This is what I used it for anyway. 
+Send a POST request to the Public HTTP API op (https://languagetool.org/)[LanguageTool.org] to check for common spelling mistakes. Can be used to create a *Did You Mean...* for your search function. This is what I use it for anyway.
 
-Still in development, some known bugs, code documentation is still lacking. Consider this is a **beta**!
+Still in development, some known bugs, code documentation is still lacking.
 
 ````PHP
 <?php
